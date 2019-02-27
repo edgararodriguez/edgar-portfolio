@@ -26,7 +26,7 @@
     <h1 class="site-header__title">Edgar's Career Portfolio</h1>
     <div class="site-header__meta">
       <a  href="https://twitter.com/EGR_III" target="_b" class="site-header__author"></a><br>
-      By <a href="https://twitter.com/EGR_III" target="_b">Edgar Gasca Rodriguez</a> on Feb 26, 2019
+      By <a href="https://twitter.com/EGR_III" target="_b">Edgar Gasca Rodriguez</a>
     </div>
   </div>
     </header>

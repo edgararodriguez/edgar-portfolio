@@ -579,6 +579,7 @@ html,body{
   max-height:550px;
   min-width:300px;
   color:#eee;
+	background-image:url('images/rockstar.jpg')
 }
 .site-header:after{
   content:"";
@@ -600,7 +601,7 @@ html,body{
     -webkit-backface-visibility: hidden;
     -webkit-transform: translateZ(0) scale(1.0, 1.0);
     transform: translateZ(0);
-  background-color:#1B2030 url('images/rockstar.jpg') top center no-repeat;
+  background-image:#1B2030 url('images/rockstar.jpg') top center no-repeat;
   background-size:cover;
   background-attachment:fixed;
   animation: grow 60s  linear 10ms infinite;
