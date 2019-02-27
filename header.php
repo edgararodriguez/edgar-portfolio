@@ -21,12 +21,12 @@
     <a href="#" class="site-header__logo">EGR</a>
   </div>
   <div class="site-header__sides"> <a href="#" class="site-header__menu">-</a></div>
-  <div class="info">
+  <div class="site-header__info">
   <h4><a href="#category">UI DESIGN</a></h4>
     <h1 class="site-header__title">Edgar's Career Portfolio</h1>
     <div class="site-header__meta">
-      <a  href="https://twitter.com/nodws" target="_b" class="site-header__author"></a><br>
-      By <a href="https://twitter.com/nodws" target="_b">Edgar Gasca Rodriguez</a> on Feb 26, 2019
+      <a  href="https://twitter.com/EGR_III" target="_b" class="site-header__author"></a><br>
+      By <a href="https://twitter.com/EGR_III" target="_b">Edgar Gasca Rodriguez</a> on Feb 26, 2019
     </div>
   </div>
     </header>

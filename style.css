@@ -600,7 +600,7 @@ html,body{
     -webkit-backface-visibility: hidden;
     -webkit-transform: translateZ(0) scale(1.0, 1.0);
     transform: translateZ(0);
-  background:#1B2030 url(images/rockstar.jpg) top center no-repeat;
+  background-color:#1B2030 url('images/rockstar.jpg') top center no-repeat;
   background-size:cover;
   background-attachment:fixed;
   animation: grow 60s  linear 10ms infinite;
@@ -645,11 +645,11 @@ html,body{
   font-size:1.2em;
   box-sizing:border-box
 }
-.site-header__sides, .info{
+.site-header__sides, .site-header__info{
   flex: 0 0 auto;
   width:50%
 }
-.info{
+.site-header__info{
   width:100%;
   padding:15% 10% 0 10%;
   text-align:center;
@@ -660,12 +660,12 @@ html,body{
   width:50px;
   height:50px;
   border-radius:50%;
-  background:url(images/carpicture.jpg) center no-repeat;
+  background:url('images/carpicture.jpg') center no-repeat;
   background-size:cover;
   box-shadow:0 2px 3px rgba(0,0,0,0.3);
   margin-bottom:3px
 }
-.info h4, .meta{
+.site-header__info h4, .site-header__meta{
   font-size:0.7em
 }
 .site-header__meta{
