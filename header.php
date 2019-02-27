@@ -16,7 +16,8 @@
 
 <body <?php body_class(); ?>>
 <div id="page" class="site">
-	<header class="site-header">
+	<header>
+		<div class="site-header">
   <div class="site-header__sides">
     <a href="#" class="site-header__logo">EGR</a>
   </div>
@@ -29,6 +30,7 @@
       By <a href="https://twitter.com/EGR_III" target="_b">Edgar Gasca Rodriguez</a>
     </div>
   </div>
+</div>
     </header>
 
 	<div id="content" class="site-content">
