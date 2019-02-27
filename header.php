@@ -18,9 +18,9 @@
 <div id="page" class="site">
 	<header class="site-header">
   <div class="site-header__sides">
-    <a href="#" class="logo">BLOG</a>
+    <a href="#" class="site-header__logo">EGR</a>
   </div>
-  <div class="site-header__sides"> <a href="#" class="menu">-</a></div>
+  <div class="site-header__sides"> <a href="#" class="site-header__menu">-</a></div>
   <div class="info">
   <h4><a href="#category">UI DESIGN</a></h4>
     <h1>Edgar's Career Portfolio</h1>

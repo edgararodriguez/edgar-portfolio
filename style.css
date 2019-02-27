@@ -610,7 +610,7 @@ html,body{
 .site-header a{
   color:#eee
 }
-.menu{
+.site-header__menu{
   display:block;
   width:30px;
   height:30px;
@@ -634,7 +634,7 @@ html,body{
   right:0;
   box-shadow:0 8px, 0 16px
 }
-.logo{
+.site-header__logo{
   border:2px solid #fff;
   border-radius:3px;
   text-decoration:none;
