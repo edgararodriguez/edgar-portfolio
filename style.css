@@ -621,7 +621,7 @@ html,body{
   top:20px;
   text-decoration:none
 }
-.menu:after{
+.site-header__menu:after{
   content:"";
   display:block;
   width:20px;
@@ -655,7 +655,7 @@ html,body{
   text-align:center;
   text-shadow:0 2px 3px rgba(0,0,0,0.2)
 }
-.author{
+.site-header__author{
   display:inline-block;
   width:50px;
   height:50px;
@@ -668,7 +668,7 @@ html,body{
 .info h4, .meta{
   font-size:0.7em
 }
-.meta{
+.site-header__meta{
   font-style:italic;
 }
 @keyframes grow{
