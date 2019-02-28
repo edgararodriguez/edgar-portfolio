@@ -24,7 +24,7 @@
   <div class="site-header__sides"> <a href="#" class="site-header__menu">-</a></div>
   <div class="site-header__info">
   <h4><a href="https://github.com/edgararodriguez">Github</a></h4>
-    <h1 class="site-header__title">Edgar's Career Portfolio</h1>
+    <h1 class="site-header__title"><?php the_field('site-header__title');?></h1>
     <div class="site-header__meta">
       <a  href="https://www.instagram.com/egriii/" target="_b" class="site-header__author"></a><br>
       By <a href="https://www.instagram.com/egriii/" target="_b">Edgar Gasca Rodriguez</a>
