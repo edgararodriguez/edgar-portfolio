@@ -4,7 +4,7 @@
     "fields": [
         {
             "key": "field_5c77f23111484",
-            "label": "site-header__title",
+            "label": "Website Title",
             "name": "site-header__title",
             "type": "text",
             "instructions": "Write the text headline for your header",
@@ -23,7 +23,7 @@
         },
         {
             "key": "field_5c77fc72f26ef",
-            "label": "site-header author image",
+            "label": "Author Image",
             "name": "site-header__author_img",
             "type": "image",
             "instructions": "Insert the Image for your picture",
@@ -44,6 +44,41 @@
             "max_height": "",
             "max_size": "",
             "mime_types": ""
+        },
+        {
+            "key": "field_5c7c6aba3d6a3",
+            "label": "Resume",
+            "name": "site_resume",
+            "type": "file",
+            "instructions": "add pdf file",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "url",
+            "library": "all",
+            "min_size": "",
+            "max_size": "",
+            "mime_types": ""
+        },
+        {
+            "key": "field_5c7d4b845cc5a",
+            "label": "Youtube Video",
+            "name": "youtube_video",
+            "type": "oembed",
+            "instructions": "insert url for the youtube video you would like to have posted.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "width": "",
+            "height": ""
         }
     ],
     "location": [
@@ -78,5 +113,5 @@
     ],
     "active": 1,
     "description": "",
-    "modified": 1551367984
+    "modified": 1551719296
 }
