@@ -691,7 +691,8 @@ html,body{
   font-weight:600
 }
 .content__youtube-video{
-	width: 600px;
+	width: 70%;
 	margin-right: auto;
  	margin-left: auto;
+
 }
