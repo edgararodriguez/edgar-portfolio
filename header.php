@@ -30,6 +30,10 @@
       By <a href="https://www.instagram.com/egriii/" target="_b">Edgar Gasca Rodriguez</a>
     </div>
 		<i class="fab fa-spotify"></i>
+		<i class="fab fa-instagram"></i>
+		<i class="fab fa-twitter"></i>
+		<i class="fab fa-linkedin"></i>
+		<i class="fab fa-github"></i>
   </div>
 </div>
     </header>
