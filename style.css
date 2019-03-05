@@ -575,6 +575,7 @@ html,body{
   align-items: flex-start;
   align-content: flex-start;
   height:50%;
+	width: 100%;
   min-height:400px;
   max-height:550px;
   min-width:300px;
@@ -600,7 +601,7 @@ html,body{
     -webkit-backface-visibility: hidden;
     -webkit-transform: translateZ(0) scale(1.0, 1.0);
     transform: translateZ(0);
-  background-image:url('images/city.jpg');
+  background-image:url('images/billboard.jpg');
   background-size:cover;
   background-attachment:fixed;
   animation: grow 60s  linear 10ms infinite;
