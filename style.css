@@ -694,3 +694,8 @@ html,body{
 .twtr{
   margin-top:100px
 }
+.content__youtube-video{
+	width: 600px;
+	margin-right: auto;
+ 	margin-left: auto;
+}
