@@ -574,7 +574,7 @@ html,body{
   justify-content: center;
   align-items: flex-start;
   align-content: flex-start;
-  height:50vw;
+  height:50%;
   min-height:400px;
   max-height:550px;
   min-width:300px;

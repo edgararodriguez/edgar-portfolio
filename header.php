@@ -29,6 +29,7 @@
       <a  href="https://www.instagram.com/egriii/" target="_b" class="site-header__author" style="background-image: url(<?php the_field('site-header__author_img'); ?>);"></a><br>
       By <a href="https://www.instagram.com/egriii/" target="_b">Edgar Gasca Rodriguez</a>
     </div>
+		<i class="fab fa-spotify"></i>
   </div>
 </div>
     </header>
