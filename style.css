@@ -697,3 +697,8 @@ html,body{
  	margin-left: auto;
 
 }
+.content__title{
+	font-size: 45px;
+  text-shadow: 0.04em 0.04em 0 #9cb8b3;
+	text-align: center;
+}

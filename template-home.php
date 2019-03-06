@@ -6,6 +6,7 @@
 get_header();
 ?>
 <section class="content">
+  <p class="content__title">Welcome!</p>
   <div class="content__youtube-video">
     <?php the_field('youtube_video');?>
 </div>
