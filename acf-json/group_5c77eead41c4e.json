@@ -3,6 +3,22 @@
     "title": "Home Page",
     "fields": [
         {
+            "key": "field_5c7d4b845cc5a",
+            "label": "Youtube Video",
+            "name": "youtube_video",
+            "type": "oembed",
+            "instructions": "insert url for the youtube video you would like to have posted.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "width": 50,
+            "height": 100
+        },
+        {
             "key": "field_5c7c6aba3d6a3",
             "label": "Resume",
             "name": "site_resume",
@@ -22,11 +38,11 @@
             "mime_types": ""
         },
         {
-            "key": "field_5c7d4b845cc5a",
-            "label": "Youtube Video",
-            "name": "youtube_video",
-            "type": "oembed",
-            "instructions": "insert url for the youtube video you would like to have posted.",
+            "key": "field_5c867d50f20ac",
+            "label": "Cover Letter",
+            "name": "site_cover-letter",
+            "type": "file",
+            "instructions": "add pdf file",
             "required": 0,
             "conditional_logic": 0,
             "wrapper": {
@@ -34,8 +50,11 @@
                 "class": "",
                 "id": ""
             },
-            "width": 50,
-            "height": 100
+            "return_format": "url",
+            "library": "all",
+            "min_size": "",
+            "max_size": "",
+            "mime_types": ""
         }
     ],
     "location": [
@@ -70,5 +89,5 @@
     ],
     "active": 1,
     "description": "",
-    "modified": 1552272917
+    "modified": 1552318229
 }
