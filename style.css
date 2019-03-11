@@ -702,3 +702,9 @@ html,body{
   text-shadow: 0.04em 0.04em 0 #9cb8b3;
 	text-align: center;
 }
+.content_img{
+  width: 80%;
+  height:600px;
+	border: 2px solid black;
+	background-size: cover;
+}
