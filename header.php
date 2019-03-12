@@ -29,11 +29,11 @@
       <a  href="https://www.instagram.com/egriii/" target="_b" class="site-header__author" style="background-image: url(<?php the_field('site-header__author_img'); ?>);"></a><br>
       By <a href="https://www.instagram.com/egriii/" target="_b">Edgar Gasca Rodriguez</a>
     </div>
-		<a href="https://open.spotify.com/user/1230614907?si=kOD-r3mbRC-_odapiTVrvQ"><i class="fab fa-spotify"></i></a>
-		<a href="https://www.instagram.com/egriii/"><i class="fab fa-instagram"></i></a>
-		<a href="https://twitter.com/EGR_III"><i class="fab fa-twitter"></i></a>
-		<a href="https://www.linkedin.com/in/edgar-gasca-rodriguez-123a45159/"><i class="fab fa-linkedin"></i></a>
-		<a href="https://github.com/edgararodriguez"><i class="fab fa-github"></i></a>
+		<a target="_blank" href="https://open.spotify.com/user/1230614907?si=kOD-r3mbRC-_odapiTVrvQ"><i class="fab fa-spotify"></i></a>
+		<a target="_blank" href="https://www.instagram.com/egriii/"><i class="fab fa-instagram"></i></a>
+		<a target="_blank" href="https://twitter.com/EGR_III"><i class="fab fa-twitter"></i></a>
+		<a target="_blank" href="https://www.linkedin.com/in/edgar-gasca-rodriguez-123a45159/"><i class="fab fa-linkedin"></i></a>
+		<a target="_blank" href="https://github.com/edgararodriguez"><i class="fab fa-github"></i></a>
   </div>
 </div>
     </header>
